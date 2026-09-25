@@ -14,11 +14,11 @@ javascript
 bootstrap
 
 Reactjs
+
 # DATA BASE
-mysql
+mangodb
 
 # BACK END
+node.js
 
-python
-
-django
+express.js
